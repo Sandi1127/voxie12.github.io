@@ -60,7 +60,7 @@ html {
     img {
       border: 2px solid #ebdbb2;
       height: auto;
-      object-fit: cover;
+      object-fit: scale-down;
       object-position: 50% 100%;
       width: 22em;
     }
