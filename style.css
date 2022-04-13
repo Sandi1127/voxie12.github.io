@@ -59,7 +59,7 @@ html {
 
     img {
       border: 2px solid #ebdbb2;
-      height: auto;
+      height: 6em;
       object-fit: scale-down;
       object-position: 50% 100%;
       width: 3em;
