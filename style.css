@@ -59,10 +59,11 @@ html {
 
     img {
       border: 2px solid #ebdbb2;
-      height: 6em;
+      height: auto;
       object-fit: scale-down;
       object-position: 50% 100%;
-      width: 3em;
+      max-width: 50%;
+      /* width: 3em; */
     }
 
 input {
