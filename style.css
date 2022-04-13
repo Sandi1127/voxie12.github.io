@@ -60,9 +60,9 @@ html {
     img {
       border: 2px solid #ebdbb2;
       height: auto;
-      object-fit: scale-down;
+      object-fit: cover;
       object-position: 50% 100%;
-      width: 13em; 
+      width: 10em;
     }
 
 input {
